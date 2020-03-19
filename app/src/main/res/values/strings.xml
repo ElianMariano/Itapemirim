@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Itapemirim</string>
+    <string name="title_activity_maps">Itapemirim</string>
+    <string name="sem_localizacao">Localização atual não encontrada.
+        Por favor, verifique o acesso à internet e se a localização está ativada.</string>
+    <string name="AlertOkButton">Ok</string>
+    <string name="ConcludeButton">Concluir</string>
+    <string name="CancelButton">Cancelar</string>
+    <!-- Textos do alertdialog caso não obtenha a localização da cidade requisitada -->
+    <string name="CityError">Erro ao obter cidade</string>
+    <!-- Texto usado caso ocorra um erro ao obter a rota -->
+    <string name="RouteError">Erro ao obter rota</string>
+    <!-- Texto usado pelo botão de ir para o lugar -->
+    <string name="GoButton">Ir para</string>
+    <!-- Texto usado no ExitFragment -->
+    <string name="Exitmsg">Deseja mesmo sair?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <!-- Texto usado nos marcadores no mapa -->
+    <string name="praca">Praca de Itapemirim</string>
+    <string name="exposicao">Parque de exposições de Itapemirim</string>
+    <string name="destino">Destino</string>
+    <string name="atual">Localização atual</string>
+</resources>

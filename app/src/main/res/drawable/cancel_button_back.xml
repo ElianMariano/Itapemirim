@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient android:startColor="@color/CancelBack"
+        android:centerColor="@color/white"
+        android:endColor="@color/CancelBack"
+        android:type="radial"
+        android:gradientRadius="3000" />
+    <stroke android:width="2dp" android:color="@color/CancelBorder" />
+    <corners android:radius="10dp" />
+</shape>

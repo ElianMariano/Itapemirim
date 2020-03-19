@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Estilo quando esta ativado -->
+    <color name="CancelBack">#C9FF8383</color>
+    <color name="CancelBorder">#CDFF5858</color>
+    <!-- Estilo quando esta desativado -->
+    <color name="CancelBackDes">#C9FFC0C0</color>
+    <color name="CancelBorderDes">#CDFF9393</color>
+    <!-- Estilo quando esta ativado -->
+    <color name="ConcludeBorder">#CD4D75FF</color>
+    <color name="ConcludeBack">#CBA8BCFF</color>
+    <!-- Estilo quando esta desativado -->
+    <color name="ConcludeBorderDes">#CDACBFFF</color>
+    <color name="ConcludeBackDes">#CBD3DCFF</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Layout background color -->
+    <color name="layout">#EEEEEAEA</color>
+    <!-- Layout background stroke-->
+    <color name="layout_stroke">#E1C7C7C7</color>
+    <!-- Mapmenu task background color -->
+    <color name="task_background">#6FEEEAEA</color>
+    <!-- Color used in line routes -->
+    <color name="route">#2196F3</color>
+    <!-- Color used in the go button-->
+    <color name="go_button">#0072CF</color>
+</resources>
